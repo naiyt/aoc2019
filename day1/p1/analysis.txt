@@ -1,0 +1,3 @@
+Not much to be said for this one. I could have left the explicit type annotations off in
+my solution because of the Crystal type inference, but I'm going to try to be explicit everywhere
+throughout the course of AOC.
